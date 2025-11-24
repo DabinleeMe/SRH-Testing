@@ -12,7 +12,7 @@ Original file is located at
 """
 
 def main_menu():
-  print("\n---Hello, Welcome to Dabin's Korea Tourism Bot! ---")
+  print("\n---Hello, Welcome to Dabin's Korea Tourism Bot! \n What would you love to know? ---")
   print("1) Place to Visit in Korea")
   print("2) K-Food?")
   print("3) K-Beauty?")
