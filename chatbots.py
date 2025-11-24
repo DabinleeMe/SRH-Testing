@@ -35,9 +35,9 @@ def place_menu():
 # City
 def recommend_city():
     print("\n✨ Recommended City Destinations ✨")
-    print("- Seoul: Trendy cafés, palaces, K-pop streets, shopping")
-    print("- Busan: Ocean city vibes + nightlife")
-    print("- Incheon: Chinatown, coastal parks")
+    print("- Seoul")
+    print("- Busan")
+    print("- Incheon")
     input("\nPress Enter to go back.")
 
 
