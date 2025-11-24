@@ -44,9 +44,9 @@ def recommend_city():
 # Beach
 def recommend_beach():
     print("\n🌊 Recommended Beach Destinations 🌊")
-    print("- Busan: Haeundae & Gwangalli beaches")
-    print("- Jeju: Hamdeok & Hyeopjae beaches")
-    print("- Gangneung: Clean water, chill vibes")
+    print("- Seoul: Trendy cafés, palaces, K-pop streets, shopping")
+    print("- Busan: Ocean city vibes + nightlife")
+    print("- Incheon: Chinatown, coastal parks")
     input("\nPress Enter to go back.")
 
 
